@@ -1,0 +1,4 @@
+# salidas y usuarios
+*.csv
+*.txt
+salidas/
